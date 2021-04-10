@@ -1,8 +1,8 @@
 package com.xrca.geektime.week5;
 
-import javax.management.StandardEmitterMBean;
 import java.util.*;
 
+// 排序链表 https://leetcode-cn.com/problems/sort-list/
 public class Q2 {
 
     public static void main(String[] args) {

@@ -19,7 +19,6 @@ public class Q1 {
 
     public void hanota(List<Integer> A, List<Integer> B, List<Integer> C) {
         move(A.size(), A, B, C);
-        System.out.println();
     }
 
     public void move(int n, List<Integer> A, List<Integer> B, List<Integer> C) {
@@ -32,7 +31,7 @@ public class Q1 {
             move(n - 1, A, C, B);
             //将A上的n号盘子移动到C
             C.add(A.remove(A.size() - 1));
-            // 将B上1 - n的盘子移到C，以A为辅助
+            // 将B上的盘子移到C，以A为辅助
             move(n - 1, B, A, C);
         }
     }
