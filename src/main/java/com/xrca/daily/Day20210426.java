@@ -13,7 +13,6 @@ public class Day20210426 {
         System.out.println(day.shipWithinDays(weights, 5));
     }
 
-
     public int shipWithinDays(int[] weights, int D) {
         // 最重货物
         int lowWeight = Arrays.stream(weights).max().getAsInt();
