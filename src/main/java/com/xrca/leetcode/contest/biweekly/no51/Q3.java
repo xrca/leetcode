@@ -1,7 +1,6 @@
 package com.xrca.leetcode.contest.biweekly.no51;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 // 减小和重新排列数组后的最大元素 https://leetcode-cn.com/contest/biweekly-contest-51/problems/maximum-element-after-decreasing-and-rearranging/
 public class Q3 {

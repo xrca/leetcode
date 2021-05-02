@@ -1,7 +1,5 @@
 package com.xrca.leetcode.contest.biweekly.no51;
 
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.PriorityQueue;
 
 // 最近的房间 https://leetcode-cn.com/contest/biweekly-contest-51/problems/closest-room/
