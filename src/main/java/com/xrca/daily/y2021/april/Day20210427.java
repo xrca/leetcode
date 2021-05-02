@@ -1,4 +1,4 @@
-package com.xrca.daily;
+package com.xrca.daily.y2021.april;
 
 
 //  二叉搜索树的范围 https://leetcode-cn.com/problems/range-sum-of-bst/

@@ -1,4 +1,4 @@
-package com.xrca.daily;
+package com.xrca.daily.y2021.april;
 
 // 递增顺序搜索树 https://leetcode-cn.com/problems/increasing-order-search-tree/
 public class Day20210425 {
